@@ -11,17 +11,12 @@ npx create-react-app ips-map
 5. npm install axios
 6. npm i typeface-roboto
 
-
-
 **********************| Node App |**********************
 
 cd api
 npm init
 
 **********************| Dependencies |**********************
-
-1. npm install express cors axios multer decompress fs pg
-2. npm install nodemon --save-dev
 
 1. npm install express
 2. npm install cors
@@ -31,3 +26,24 @@ npm init
 6. npm i decompress
 7. npm i fs
 8. npm i pg
+
+**********************| Flask App |**********************
+
+1. install python 3.7 or higher add to environment variable
+2. install virtualenv python -m pip install virtualenv
+3. create virual env in root of project virtualenv ./path/ -p ./path/tp/python/python.exe
+4. activate the environment \Scripts\activate
+
+**********************| Dependencies |**********************
+
+1. pip install flask
+2. pip install -U flask-cors
+3. pip install flask-jwt-extended
+4. pip install Flask-API
+5. pip install gevent
+6. pip install PyYAML
+7. pip install typing
+8. pip install wirepas-messaging
+9. pip install websocket-client==0.48.0
+
+copy wirepas backend-apip-master to ./root/wirepas
