@@ -1,0 +1,32 @@
+
+**********************| React App |**********************
+npx create-react-app ips-map
+
+**********************| Dependencies |**********************
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install @material-ui/lab
+npm i leaflet
+npm install axios
+npm i typeface-roboto
+
+
+**********************| Node App |**********************
+cd api
+npm init
+
+**********************| Dependencies |**********************
+npm install express cors axios multer decompress fs pg
+npm install nodemon --save-dev
+
+npm install express
+npm install cors
+npm install nodemon --save-dev
+npm install axios
+npm install multer
+npm i decompress
+npm i fs
+npm i pg
+
+**********************| Yarn Build |**********************
+?

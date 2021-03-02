@@ -1,0 +1,11 @@
+/.Map.component.draft.js
+/.vscode
+/node_modules
+/package-lock.json
+/build
+/api/node_modules
+/api/package-lock.json
+/api/scripts.txt
+/api/uploads
+*.zip
+*.rar

@@ -1,0 +1,16 @@
+.pre-commit-config.yaml
+.flake8
+.clang*
+.ci/manifest/*
+dev-requirements.txt
+
+Pipfile
+releases.env
+wrappers/python/docs/source/api/
+
+**/*pb2.py
+**/*_pb2_grpc.py
+pb2.py
+wrappers/python/wirepas_messaging/**/*.proto
+
+.settings.yml
